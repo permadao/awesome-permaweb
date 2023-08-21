@@ -15,7 +15,7 @@ ToC
 
 
 
-## docs
+## Docs
 * [Cookbook](https://cookbook.arweave.world/) -A curated collection of developer guides & more to build on the Permaweb. All in one place.
 
 
