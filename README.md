@@ -9,7 +9,7 @@ ToC
 - [App](#app)
 
 
-## infra
+## Infra
 * [Web3Infra](https://web3infra.arweave.world/) - The Web3Infra tool has you developers covered. It's Easy-to-use, has high-performing Arweave light nodes and gateways.
 
 
